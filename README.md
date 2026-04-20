@@ -1,6 +1,6 @@
 # Pimsleur Spanish — Study Guides
 
-Vocabulary tables, grammar notes, and verb conjugation references for **Pimsleur Spanish Levels 1 and 2** (30 lessons each).
+Vocabulary tables, grammar notes, and verb conjugation references for **Pimsleur Spanish Levels 1–5** (30 lessons each).
 
 These are companion study guides — not a replacement for the audio lessons. Use them alongside the recordings to reinforce what you hear.
 
@@ -20,6 +20,9 @@ Each file covers one lesson and has four sections:
 ```
 L01_01.md – L01_30.md   Spanish Level 1, Lessons 1–30
 L02_01.md – L02_30.md   Spanish Level 2, Lessons 1–30
+L03_01.md – L03_30.md   Spanish Level 3, Lessons 1–30
+L04_01.md – L04_30.md   Spanish Level 4, Lessons 1–30
+L05_01.md – L05_30.md   Spanish Level 5, Lessons 1–30
 ```
 
 ## How these were generated
