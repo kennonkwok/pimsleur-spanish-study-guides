@@ -18,11 +18,11 @@ Each file covers one lesson and has four sections:
 ## Files
 
 ```
-L01_01.md – L01_30.md   Spanish Level 1, Lessons 1–30
-L02_01.md – L02_30.md   Spanish Level 2, Lessons 1–30
-L03_01.md – L03_30.md   Spanish Level 3, Lessons 1–30
-L04_01.md – L04_30.md   Spanish Level 4, Lessons 1–30
-L05_01.md – L05_30.md   Spanish Level 5, Lessons 1–30
+L01/L01_01.md – L01/L01_30.md   Spanish Level 1, Lessons 1–30
+L02/L02_01.md – L02/L02_30.md   Spanish Level 2, Lessons 1–30
+L03/L03_01.md – L03/L03_30.md   Spanish Level 3, Lessons 1–30
+L04/L04_01.md – L04/L04_30.md   Spanish Level 4, Lessons 1–30
+L05/L05_01.md – L05/L05_30.md   Spanish Level 5, Lessons 1–30
 ```
 
 ## How these were generated
